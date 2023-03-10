@@ -1,0 +1,7 @@
+# Cloner un référentiel
+git clone https://github.com/thomas-gorree/git-begins.git
+
+# Commandes de push
+git add .
+git commit -m "Description de votre commit"
+git push origin nom-de-votre-branche
